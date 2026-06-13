@@ -9,8 +9,8 @@ Tenho 19 anos, estou no 1º ano de **Engenharia de Software** na Universidade Cr
 
 ## 🧠 O que estou estudando agora
 
-- **JavaScript & TypeScript** — aprofundando em Node.js, Express e Fastify
-- **Arquitetura de APIs** — REST, autenticação JWT, Sequelize ORM
+- **Python para Dados** — pipelines de dados, ETL, Pandas e integração com bancos relacionais
+- **Engenharia de Dados** — ingestão, transformação e orquestração de dados para produtos de IA
 - **Engenharia de Software** — estruturas de dados, padrões de projeto, sistemas distribuídos
 - **IA Generativa aplicada** — agentes autônomos com OpenAI e Gemini integrados a fluxos reais
 
